@@ -60,9 +60,7 @@ for item in code {
       letter = ""
       
       
-    } else {
-      
-   }
+    } 
 
 }
 print(charac)
